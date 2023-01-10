@@ -30,7 +30,7 @@ Before getting started with the app, you will need to have the following tools i
 2. Clone the repository and navigate to the project directory:
     
     ```bash
-    git clone https://github.com/bobo-byte/eliptica-app.git
+    git clone https://github.com/bobo-byte/eliptica-patients.git
     cd eliptica-app
     ```
     
